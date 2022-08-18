@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/programming-language/c/c-resources/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+## [[Programming Language/C/C- Applications|C- Applications]]
 
 # C - Resources
 ## Book List
